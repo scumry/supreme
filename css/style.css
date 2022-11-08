@@ -1,0 +1,12 @@
+@font-face {
+    font-family: SpaceMono;
+    src: url(/fonts/Space_Mono/OFL.txt);
+}
+$maxWidthContainer: 287px;
+$minWidth: 320px;
+$maxWidth: 1440px;
+.container {
+    max-width: 287px;
+    margin: 0 auto;
+    
+}
