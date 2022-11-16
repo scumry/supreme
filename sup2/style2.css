@@ -43,6 +43,8 @@
         width: 287px;
         text-align: center;
         color: black;
+        max-width: 100%;
+        height: auto;
 
     }
     .date2019 {
@@ -62,6 +64,8 @@
         height: 260px;
         padding-left: 100px;
         padding-top: 8px;
+        max-width: 100%;
+        height: auto;
     }
     .txt {
         color: black;
@@ -71,6 +75,8 @@
         line-height: 37px;
         width: 400px;
         padding-left: 500px;
+        max-width: 100%;
+        height: auto;
     }
     .supv {
         color: black;
@@ -79,6 +85,8 @@
         font-size: 25px;
         line-height: 37px;
         width: 400px;
+        max-width: 100%;
+        height: auto;
         
     }
     .archive {
@@ -86,12 +94,15 @@
         padding-left: 500px;
         font-family: 'SpaceMono';
         font-size: 20px;
+        max-width: 100%;
+        height: auto;
     }
     .style-arc {
         border;
         background-color: #FF0000;
         width: 86px;
         height: 30px;
+
     }
     .bottom {
         font-family: 'SpaceMono';
@@ -100,6 +111,8 @@
         color: black;
         display: flex;
         padding-left: 155px;
+        max-width: 100%;
+        height: auto;
     }
     .bot-of {
 
@@ -115,6 +128,8 @@
         align-items: center;
         padding-top: 125px;
         justify-content: space-evenly;
+        max-width: 100%;
+        height: auto;
     }
     a {
         color: #000000;
